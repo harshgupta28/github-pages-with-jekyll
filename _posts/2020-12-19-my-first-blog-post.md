@@ -1,1 +1,4 @@
-this is a quick draft drafted by me.
+---
+title: "my first blog"
+date: 2020-12-19
+---
